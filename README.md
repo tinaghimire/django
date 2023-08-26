@@ -198,5 +198,7 @@ Also, create a new app named task
 
 In task app, you will also find templates inheritance property
 
+Also, bring change into actual database
+python manage.py migrate
 
 
