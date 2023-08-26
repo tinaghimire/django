@@ -194,6 +194,9 @@ def year(request):
 
 Then run the server
 
+Also, create a new app named task
+
+In task app, you will also find templates inheritance property
 
 
 
